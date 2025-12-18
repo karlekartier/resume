@@ -2,16 +2,16 @@
   "version": 3,
   "pages404": true,
   "caseSensitive": false,
-  "basePath": "/My-App",
+  "basePath": "/resume",
   "redirects": [
     {
-      "source": "/My-App/",
-      "destination": "/My-App",
+      "source": "/resume/",
+      "destination": "/resume",
       "basePath": false,
       "internal": true,
       "priority": true,
       "statusCode": 308,
-      "regex": "^/My-App/$"
+      "regex": "^/resume/$"
     },
     {
       "source": "/:path+/",
