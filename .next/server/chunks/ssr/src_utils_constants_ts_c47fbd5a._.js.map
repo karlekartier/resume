@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../src/utils/constants.ts"],"sourcesContent":["export const BASE_PATH = process.env.NEXT_PUBLIC_BASE_PATH || \"\";\r\nexport const ASSETS_PREFIX = process.env.NODE_ENV === 'production' ? \"https://karlekartier.github.io/My-App\" : \"\";\r\n"],"names":[],"mappings":"8DACqE,0CAA0C"}

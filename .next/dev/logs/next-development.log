@@ -1,0 +1,42 @@
+[00:00:01.231] Server  LOG      ✓ Ready in 905ms
+[00:01:54.708] Browser WARN    Image with src "http://localhost:3000/assets/images/icons/vs-code.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:04:47.784] Server  LOG      ✓ Compiled in 156ms
+[00:05:16.446] Browser WARN    Image with src "/assets/images/vs_deploy.webp" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:09:55.128] Server  LOG      ✓ Compiled in 117ms
+[00:11:50.925] Browser WARN    Image with src "/assets/images/vs_deploy.webp" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:22:30.772] Server  LOG      ✓ Compiled in 85ms
+[00:23:40.217] Browser WARN    Image with src "http://localhost:3000/assets/images/icons/vs-code.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:27:36.765] Server  ERROR   C:\Users\karth\Documents\github\My-App\.next\dev\server\chunks\ssr\[root-of-the-server]__f0c979dd._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:27:36.768] Server  ERROR    ⨯ ReferenceError: VersionProvider is not defined
+[00:27:36.811] Server  ERROR   C:\Users\karth\Documents\github\My-App\.next\dev\server\chunks\ssr\[root-of-the-server]__f0c979dd._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:27:36.811] Server  ERROR    ⨯ ReferenceError: VersionProvider is not defined
+[00:27:36.962] Browser ERROR   uncaughtError: ReferenceError: VersionProvider is not defined
+[00:27:37.908] Browser ERROR   uncaughtError: ReferenceError: VersionProvider is not defined
+[00:27:37.942] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:27:38.179] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:27:59.038] Server  LOG      ✓ Compiled in 118ms
+[00:27:59.137] Browser ERROR   uncaughtError: ReferenceError: version is not defined
+[00:27:59.907] Browser ERROR   uncaughtError: ReferenceError: version is not defined
+[00:28:01.304] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:28:01.305] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:28:01.511] Server  ERROR   C:\Users\karth\Documents\github\My-App\.next\dev\server\chunks\ssr\src_7387a902._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:28:01.512] Server  ERROR    ⨯ ReferenceError: version is not defined
+[00:28:01.524] Server  LOG      ✓ Compiled in 74ms
+[00:28:01.524] Browser ERROR   uncaughtError: ReferenceError: version is not defined
+[00:28:01.609] Server  ERROR   C:\Users\karth\Documents\github\My-App\.next\dev\server\chunks\ssr\src_7387a902._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:28:01.609] Server  ERROR    ⨯ ReferenceError: version is not defined
+[00:28:01.940] Browser ERROR   uncaughtError: ReferenceError: version is not defined
+[00:28:02.638] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:28:02.639] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:28:02.639] Browser ERROR   uncaughtError: ReferenceError: version is not defined
+[00:28:02.867] Server  LOG      ✓ Compiled in 81ms
+[00:28:32.372] Server  LOG      ✓ Compiled in 75ms
+[00:28:32.483] Browser ERROR   uncaughtError: ReferenceError: useVersion is not defined
+[00:28:32.905] Browser ERROR   uncaughtError: ReferenceError: useVersion is not defined
+[00:28:33.594] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:28:33.602] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:28:33.842] Server  LOG      ✓ Compiled in 68ms
+[00:33:48.261] Server  LOG      ✓ Compiled in 79ms
+[00:36:00.467] Browser WARN    Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
