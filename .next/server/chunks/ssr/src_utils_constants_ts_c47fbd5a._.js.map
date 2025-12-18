@@ -1,1 +1,1 @@
-{"version":3,"sources":["../../../../src/utils/constants.ts"],"sourcesContent":["export const BASE_PATH = process.env.NEXT_PUBLIC_BASE_PATH || \"\";\r\nexport const ASSETS_PREFIX = BASE_PATH;\r\n"],"names":[],"mappings":"uCAAO,IAAM,EAAY,UAAA,IAAqC,mBACjC"}
+{"version":3,"sources":["../../../../src/utils/constants.ts"],"sourcesContent":["export const BASE_PATH = \"/resume\";\r\nexport const ASSETS_PREFIX = \"/resume\";\r\n"],"names":[],"mappings":"8DAC6B,wBADJ"}

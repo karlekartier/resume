@@ -61,8 +61,8 @@ __turbopack_context__.s([
     "BASE_PATH",
     ()=>BASE_PATH
 ]);
-const BASE_PATH = ("TURBOPACK compile-time value", "") || "";
-const ASSETS_PREFIX = BASE_PATH;
+const BASE_PATH = "/resume";
+const ASSETS_PREFIX = "/resume";
 }),
 "[project]/src/components/Navbar.tsx [app-ssr] (ecmascript)", ((__turbopack_context__) => {
 "use strict";
