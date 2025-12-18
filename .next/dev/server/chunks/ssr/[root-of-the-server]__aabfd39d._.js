@@ -159,18 +159,6 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$BackToT
 ;
 __turbopack_context__.n(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$BackToTop$2e$tsx__$5b$app$2d$rsc$5d$__$28$client__reference__proxy$29$__);
 }),
-"[project]/src/utils/constants.ts [app-rsc] (ecmascript)", ((__turbopack_context__) => {
-"use strict";
-
-__turbopack_context__.s([
-    "ASSETS_PREFIX",
-    ()=>ASSETS_PREFIX,
-    "BASE_PATH",
-    ()=>BASE_PATH
-]);
-const BASE_PATH = ("TURBOPACK compile-time value", "") || "";
-const ASSETS_PREFIX = "";
-}),
 "[project]/src/app/layout.tsx [app-rsc] (ecmascript)", ((__turbopack_context__) => {
 "use strict";
 
@@ -186,8 +174,6 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$utils$2f$cn$2e$ts__$5
 var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$theme$2d$provider$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/src/components/theme-provider.tsx [app-rsc] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$version$2d$provider$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/src/components/version-provider.tsx [app-rsc] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$BackToTop$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/src/components/BackToTop.tsx [app-rsc] (ecmascript)");
-var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$utils$2f$constants$2e$ts__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/src/utils/constants.ts [app-rsc] (ecmascript)");
-;
 ;
 ;
 ;
@@ -199,7 +185,7 @@ const metadata = {
     title: "Karthick Kishore | Portfolio",
     description: "Digital Marketer & Motion Graphics Expert",
     icons: {
-        icon: `${__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$utils$2f$constants$2e$ts__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["BASE_PATH"]}/assets/favicon/kk_logo.svg`
+        icon: `${BASE_PATH}/assets/favicon/kk_logo.svg`
     }
 };
 function RootLayout({ children }) {
@@ -247,4 +233,4 @@ function RootLayout({ children }) {
 }),
 ];
 
-//# sourceMappingURL=%5Broot-of-the-server%5D__396a5b94._.js.map
+//# sourceMappingURL=%5Broot-of-the-server%5D__aabfd39d._.js.map

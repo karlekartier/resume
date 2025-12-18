@@ -62,7 +62,7 @@ __turbopack_context__.s([
     ()=>BASE_PATH
 ]);
 const BASE_PATH = ("TURBOPACK compile-time value", "") || "";
-const ASSETS_PREFIX = ("TURBOPACK compile-time falsy", 0) ? "TURBOPACK unreachable" : "";
+const ASSETS_PREFIX = "";
 }),
 "[project]/src/components/Navbar.tsx [app-ssr] (ecmascript)", ((__turbopack_context__) => {
 "use strict";
